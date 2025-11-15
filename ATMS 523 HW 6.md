@@ -2,7 +2,7 @@
 
 ## Module 6 Project
 
-Submit this code as a pull request back to GitHub Classroom by the date and time listed in Canvas.
+Submit this code commit back to GitHub by the date and time listed in Canvas.
 
 ## Datasets
 
@@ -16,17 +16,6 @@ Also, use the ENSO, PDO, NAO, and AO dataframe from earlier module.
    
    - Illinois
    
-   - Indiana
-   
-   - Wisconsin
-   
-   - Michigan
-   
-   - Missouri
-   
-   - Iowa
-   
-   - Minnesota
 2. Merge this monthly tornado dataset with the ENSO, MJO, NAO, and AO dataframe created in Module 4 Notebook 1.
 
 3. Create a random forest regression model and use features that include the 4 climate indices to predict the monthly number of tornadoes.  Create a scatter plot of the predicted and observed number of tornadoes over these states.  Report the correlation coefficient and RMSE of your model.
