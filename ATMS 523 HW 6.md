@@ -2,7 +2,7 @@
 
 ## Module 6 Project
 
-Submit this code as a pull request back to GitHub Classroom by the date and time listed in Canvas.
+Submit this code commit back to GitHub by the date and time listed in Canvas.
 
 ## Datasets
 
